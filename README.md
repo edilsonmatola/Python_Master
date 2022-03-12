@@ -1,2 +1,3 @@
-# Python_Master
-Coding in Python every day.
+# Python Master
+
+Coding in Python every day until I became a master.🥇
