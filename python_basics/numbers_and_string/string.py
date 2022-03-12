@@ -8,10 +8,13 @@ string_2 = "This is also a string"
 
 # Printing Strings
 
-print('Hi there!')
+print('Hi there!')  # Output: Hi there!
 
-print(string_1)
+print(string_1)  # Output: This is a string.
 
 # Printing multiple strings
 
 print('Hey.', 'Are you enjoying the repo?', 'Give it a star and follow me.')
+
+# Printing in new line (\n)
+print('Hey.\nAre you enjoying the repo? \nGive it a star and follow me.')
