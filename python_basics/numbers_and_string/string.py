@@ -8,9 +8,9 @@ string_2 = "This is also a string"
 
 # Printing Strings
 
-print('Hi there!')  # output: Hi there!
+print('Hi there!')  # Output: Hi there!
 
-print(string_1)  # output: This is a string.
+print(string_1)  # Output: This is a string.
 
 # Printing multiple strings
 
