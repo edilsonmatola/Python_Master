@@ -13,7 +13,11 @@ float_4 = -9.45
 float_5 = 13.98
 
 # Printing Numbers
-print(65)
+print(65) #output: 65
 
 # Printing multiple numbers
-print(int_1, float_3)
+print(int_1, float_3) #output: 5 0.0
+
+# Printing in new line (\n)
+
+print('Hey.\n\nHow you are?')
