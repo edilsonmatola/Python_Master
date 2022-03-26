@@ -1,3 +1,5 @@
+<p align="center"><img src="./media/python-logo.png"></p>
+
 # Repo Content Outline
 
 ## 1. Introduction to Python Basics
@@ -30,7 +32,7 @@
 
 5. Break continue
 
-8. Challenges
+6. Challenges
 
 ### 3. Python Functions:
 
