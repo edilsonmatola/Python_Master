@@ -15,7 +15,7 @@ for country in countries:
 # For Loop with range
 
 
-# range(1, 5) a sequence of numbers 1, 2, 3 and 4
+# range(1, 10) a sequence of numbers 1, 2, 3, 4, 5, 6, 7, 8, 9 and 10
 # Note: 10 is exclusive
 
 for i in range(1, 10):
