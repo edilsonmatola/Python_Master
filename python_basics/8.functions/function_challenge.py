@@ -4,7 +4,9 @@
 * Inside the function, put two print statements:
 
 * print(5)
+
 * print(100)
+
 * Call the print_numbers() function two times.
 
 """
